@@ -1,6 +1,5 @@
 requests
 bs4
-urllib
 joblib
 pandas
 numpy
